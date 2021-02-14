@@ -1,7 +1,7 @@
 # News Portal — Neшs
 ###### Project Description
 
-Neшs Portal is an online communication medium for internet users which are read all over the country. And that is how our project is going to prevent such a problem as a poor number of honest and non-corrupted news portals in Kazakhstan.
+Neшs Portal is an online communication medium for internet users which are read all over the country. And that is how our project is going to prevent such a problem as a poor number of honest and non-corrupt news portals in Kazakhstan.
 #
 ###### Project Scope
 
