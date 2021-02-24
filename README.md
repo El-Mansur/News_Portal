@@ -20,5 +20,13 @@ C# is quite flexible and handy, especially when it comes to web development.
 We're not sure about this yet, but will probably be choosing between SQLite and mySQL.
 #
 ###### Dataset
-The data set we are choosing for the project is ["All the news"](https://www.kaggle.com/snapcrack/all-the-news). The following dataset consists of 143,000 articles from 15 American publications, and it suits great for our news portal. The amount of tables is enough to follow the project instructions.
+The data set we are choosing for the project is ["All the news"](https://www.kaggle.com/snapcrack/all-the-news). The following dataset consists of 143,000 articles from 15 American publications 3 files and 30 columns, and it suits great for our news portal. The amount of tables is enough to follow the project instructions.
+
+##### Content
+
+articles1.csv - 50,000 news articles (Articles 1-50,000)
+
+articles2.csv - 49,999 news articles (Articles 50,001-100,00)
+
+articles3.csv - Articles 100,001+
 # 
