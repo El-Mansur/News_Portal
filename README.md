@@ -18,4 +18,7 @@ C# is quite flexible and handy, especially when it comes to web development.
 
 ##### DS - SQLite or mySQL
 We're not sure about this yet, but will probably be choosing between SQLite and mySQL.
-
+#
+###### Dataset
+The data set we are choosing for the project is ["All the news"](https://www.kaggle.com/snapcrack/all-the-news). The following dataset consists of 143,000 articles from 15 American publications, and it suits great for our news portal. The amount of tables is enough to follow the project instructions.
+# 
