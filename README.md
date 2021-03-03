@@ -62,4 +62,4 @@ articles3.csv - Articles 100,001+
 15)Can you sort publications by most popular tags?
 #
 ###### Functionalities and Features of the project
-
+![alt text](http://url/to/img.png)
