@@ -30,3 +30,33 @@ articles2.csv - 49,999 news articles (Articles 50,001-100,00)
 
 articles3.csv - Articles 100,001+
 # 
+###### General Questions
+1)Can you categorize news articles based on their headlines and short descriptions?
+
+2)Do news articles from different categories have different writing styles?
+
+3)can users interact with articles?
+
+4)can users rate articles without logging in?
+ 
+5)what privilages does an authorized user has?
+
+6)Does article include more than one tag?
+
+7) Does user able to find articles by authors and tags?
+
+8)Is it any possibilities for user to search up all the articles of the exact author?
+
+9)Is it possible to  track the number of top articles of the exact publication by popularity?
+
+10)Does user able to sort bookmarks news by categories?
+
+11)Does user able to edit bookmarks?
+
+12)does most popular news section have some distinctive features?
+
+13)can users search using several filters?
+
+14)can you sort tags by popularities?
+
+15)can you sort publications by most popular tags?
