@@ -35,11 +35,11 @@ articles3.csv - Articles 100,001+
 
 2)Do news articles from different categories have different writing styles?
 
-3)can users interact with articles?
+3)Can users interact with articles?
 
-4)can users rate articles without logging in?
+4)Can users rate articles without logging in?
  
-5)what privilages does an authorized user has?
+5)What privilages does an authorized user has?
 
 6)Does article include more than one tag?
 
@@ -53,10 +53,10 @@ articles3.csv - Articles 100,001+
 
 11)Does user able to edit bookmarks?
 
-12)does most popular news section have some distinctive features?
+12)Does most popular news section have some distinctive features?
 
-13)can users search using several filters?
+13)Can users search using several filters?
 
-14)can you sort tags by popularities?
+14)Can you sort tags by popularities?
 
-15)can you sort publications by most popular tags?
+15)Can you sort publications by most popular tags?
