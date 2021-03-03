@@ -43,7 +43,7 @@ articles3.csv - Articles 100,001+
 
 6)Does article include more than one tag?
 
-7) Does user able to find articles by authors and tags?
+7)Does user able to find articles by authors and tags?
 
 8)Is it any possibilities for user to search up all the articles of the exact author?
 
