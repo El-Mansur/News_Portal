@@ -63,6 +63,5 @@ articles3.csv - Articles 100,001+
 #
 ###### Functionalities and Features of the project
 ![alt text](https://raw.githubusercontent.com/El-Mansur/News_Portal/main/Neшs-UseCase-UML.png)
-#
-###### ER diagram 
-![alt text]()
+
+
