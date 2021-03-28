@@ -5,7 +5,7 @@ Neшs Portal is an online communication medium for internet users which are read
 #
 ###### Project Scope
 
-Our project time duration is one year. We are planning to publish publications, press releases, columns, articles, blogs and other news related content. 
+We are planning to publish publications, press releases, columns, articles, blogs and other news related content and including admin users. 
 #
 ###### User-interface
 
@@ -16,7 +16,7 @@ A Web user interface allows the user to interact with content or software runnin
 C# is quite flexible and handy, especially when it comes to web development. 
 
 
-##### DS - SQLite or mySQL
+##### DB - SQLite or mySQL
 We're not sure about this yet, but will probably be choosing between SQLite and mySQL.
 #
 ###### Dataset
