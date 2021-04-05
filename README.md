@@ -12,8 +12,8 @@ We are planning to publish publications, press releases, columns, articles, blog
 A Web user interface allows the user to interact with content or software running on a remote server through a Web browser. This interaction involves using search, getting past ads, and scrolling navigation, all of which has an effect on their likelihood to return, recommend, and trust these sources of news. Which is why we are choosing the WEB UI.
 #
 ###### Programming Language & Database server
-##### PL - C#      
-C# is quite flexible and handy, especially when it comes to web development. 
+##### PL - Python     
+Python (Django) is quite flexible and handy, especially when it comes to web development. 
 
 
 ##### DB - SQLite or mySQL
